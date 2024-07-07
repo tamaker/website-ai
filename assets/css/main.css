@@ -2025,4 +2025,4 @@ input, select, textarea {
 
 
 
-	#content, #footer0 { display: none; }
+	#content, #footer0 { display: none !important; }
